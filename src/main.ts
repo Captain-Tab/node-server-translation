@@ -1,1 +1,3 @@
-console.log('hello')
+export const translate = (word) => {
+    console.log(word)
+}
